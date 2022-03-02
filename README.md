@@ -24,6 +24,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-05122A?style=flat&logo=Sourcetree&logoColor=0052CC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=sentry&logoColor=362D59)&nbsp;
 
 
 
