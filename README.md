@@ -12,7 +12,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=7F52FF)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=F05138)\
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=flat&logo=jetpack-compose&logoColor=4285F4)\
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=F05138)&nbsp;
 ![XCode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=147EFB)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
