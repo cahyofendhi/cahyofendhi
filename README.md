@@ -14,10 +14,11 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)\
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=flat&logo=jetpack-compose&logoColor=4285F4)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=F05138)&nbsp;
-![XCode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=147EFB)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)\
+![SwiftUI](https://img.shields.io/badge/-Swift%20UI-05122A?style=flat&logo=Swift&logoColor=F05138)&nbsp;
+![XCode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=147EFB)\
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![React Native](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=#61DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?logo=react&?style=flat&logoColor=white&logoWidth=30)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=##3178C6)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
