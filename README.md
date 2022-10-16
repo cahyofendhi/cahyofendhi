@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Bekti Cahyo R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :sassy_man:  About me
-- 🔭 I’m currently working as Mobile Developer
+- 🔭 I’m currently working as Mobile Engineer
 - 👯 I’m looking to collaborate on Mobile App Development 
 - 📫 How to reach me: cahyofendhi@gmail.com
 
