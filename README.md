@@ -25,13 +25,3 @@
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-05122A?style=flat&logo=Sourcetree&logoColor=0052CC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/cahyofendhi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cahyofendhi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cahyofendhi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
